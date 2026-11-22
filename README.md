@@ -1,5 +1,8 @@
 # Quartz 5D Sovereignty | Roteiro conceitual de apresentação
 
+<p align="center"><img src="PROJECT-OVERVIEW.svg" alt="Diagrama explicativo de Quartz 5D Sovereignty" width="100%"></p>
+
+
 Este repositório reúne um roteiro de pitch sobre uma proposta de pesquisa em armazenamento de dados em materiais como cristal de quartzo, com referências a gravação óptica multidimensional e soberania de dados.
 
 > **Maturidade:** material de apresentação conceitual. O conteúdo atual não demonstra um dispositivo de gravação/leitura, protótipo físico, método experimental validado, capacidade de armazenamento medida ou sistema operacional de armazenamento 5D. Alegações de durabilidade, densidade, segurança ou desempenho devem ser tratadas como hipóteses até que existam fontes científicas e resultados reproduzíveis.
@@ -51,3 +54,6 @@ Contribuições devem incluir referências verificáveis, metodologia, unidade d
 ## Licença
 
 Verifique a presença de um arquivo de licença antes de reutilizar ou redistribuir o conteúdo.
+
+
+**Empresa responsável:** Impulso Digital Soluções em IA.
