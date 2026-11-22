@@ -5,7 +5,7 @@
 
 Este repositório reúne um roteiro de pitch sobre uma proposta de pesquisa em armazenamento de dados em materiais como cristal de quartzo, com referências a gravação óptica multidimensional e soberania de dados.
 
-> **Maturidade:** material de apresentação conceitual. O conteúdo atual não demonstra um dispositivo de gravação/leitura, protótipo físico, método experimental validado, capacidade de armazenamento medida ou sistema operacional de armazenamento 5D. Alegações de durabilidade, densidade, segurança ou desempenho devem ser tratadas como hipóteses até que existam fontes científicas e resultados reproduzíveis.
+> **Maturidade:** material de apresentação conceitual. O conteúdo atual não demonstra um dispositivo de gravação/leitura, dispositivo físico, método experimental validado, capacidade de armazenamento medida ou sistema operacional de armazenamento 5D. Alegações de durabilidade, densidade, segurança ou desempenho devem ser tratadas como hipóteses até que existam fontes científicas e resultados reproduzíveis.
 
 ## Objetivo
 
@@ -27,7 +27,7 @@ A seguinte decomposição é uma hipótese de trabalho, não uma arquitetura imp
 
 ```mermaid
 flowchart TD
-  A[Codificação e preparação dos dados] --> B[Gravação óptica experimental]
+  A[Codificação e preparação dos dados] --> B[Gravação óptica em pesquisa]
   B --> C[Meio físico de armazenamento]
   C --> D[Leitura e aquisição óptica]
   D --> E[Decodificação e verificação de integridade]
@@ -37,7 +37,7 @@ flowchart TD
 ## Plano de validação recomendado
 
 1. Revisão bibliográfica por pares sobre armazenamento óptico multidimensional em materiais transparentes.
-2. Definição de hipótese mensurável e protocolo experimental.
+2. Definição de hipótese mensurável e protocolo de pesquisa.
 3. Identificação de laboratório, equipamento e material de referência.
 4. Medição de densidade, taxa de gravação/leitura, taxa de erro e estabilidade.
 5. Publicação de dados, código de análise e resultados reproduzíveis.
