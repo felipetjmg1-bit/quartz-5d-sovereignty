@@ -57,3 +57,8 @@ Verifique a presença de um arquivo de licença antes de reutilizar ou redistrib
 
 
 **Empresa responsável:** Impulso Digital Soluções em IA.
+
+
+## Fluxo passo a passo
+
+Consulte o [guia textual com as etapas do projeto](docs/PROCESSO-PASSO-A-PASSO.md). O infográfico acima resume visualmente o mesmo fluxo.
